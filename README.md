@@ -1,0 +1,1 @@
+solution for codewars problem 'Find the capitals'. takes a word and returns the index of any capitalized characters.
